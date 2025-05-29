@@ -16,7 +16,7 @@ It might seem basic, but overlooking basics can have some detrimental effects. I
 In researching them, I learned two things:
 
 1. They are the only penguins that (naturally) occur in "The Old World"<sup><a href="https://en.m.wikipedia.org/wiki/African_penguin">1</a></sup>.
-2. "The Old World" is a term applied to Europe and Africa, to note the known world before the discovery of the Americas<sup><a href="https://en.m.wikipedia.org/wiki/Old_World">2</a></sup>.
+2. "The Old World" is a term applied to Asia, Europe and Africa, to note the known world before the discovery of the Americas and Australia<sup><a href="https://en.m.wikipedia.org/wiki/Old_World">2</a></sup>.
 
 ### Add your penguin (and your name)
 
